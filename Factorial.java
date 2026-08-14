@@ -12,7 +12,7 @@
     }
 
     public static void main(String[] args) {
-        int number = 9;
+        int number = 12;
         System.out.println("Factorial of " + number + " is " + compute(number));
     }
 }
